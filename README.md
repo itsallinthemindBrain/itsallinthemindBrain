@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @itsallinthemindBrain
 - 👀 I’m interested in using github to leverage this platforn
-- 🌱 I’m currently learning Aws cloud
-- 💞️ I’m looking to collaborate on aws solutions architect
+- 🌱 I’m currently learning Azure Cloud
+- 💞️ I’m looking to collaborate with Azure enthusiast
 - 📫 How to reach me rey.mdoojt@gmail.com
 
 <!---
