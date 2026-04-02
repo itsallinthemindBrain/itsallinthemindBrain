@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @itsallinthemindBrain
-- 👀 I’m interested in using github to leverage this platforn
-- 🌱 I’m currently learning Azure Cloud
-- 💞️ I’m looking to collaborate with Azure enthusiast
-- 📫 How to reach me rey.mdoojt@gmail.com
+Hi
+
+Give me your real problem, I'll give you my real solution.
+
+I'm a Software Developer who practice CI/CD, Azure Services and leveraging A.I. Tools for development.
 
 <!---
 itsallinthemindBrain/itsallinthemindBrain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
